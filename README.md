@@ -1,2 +1,1 @@
-# joeambrosioyoga.com
-joeambrosioyoga.com
+# mariesaintgeorges.fr

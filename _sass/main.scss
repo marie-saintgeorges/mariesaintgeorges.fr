@@ -1,0 +1,477 @@
+$background-color: #fffcf5;;
+
+body {
+  margin: 0;
+  background: url('/assets/back.jpg');
+  background-size: auto;
+  font-family: raleway, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1, h2 {
+  font-family: bookmania, serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h2 {
+  font-size: 2em;
+}
+
+#instagram-logo {
+ position: absolute;
+ top: 15px;
+ right: 15px;
+ width: 35px;
+}
+
+
+#name {
+  font-size: 0.5em;
+  letter-spacing: 0.7em;
+  font-family: raleway, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#news {
+  padding: 20px 110px;
+  p {
+    padding: 0;
+    text-align: center;
+  }
+}
+
+header {
+  h1 {
+    line-height: 40px;
+    text-align: center;
+    margin:0;
+    padding: 10px 0 20px;
+    color: black;
+  }
+  a:hover, a:visited, a:link, a:active {
+      text-decoration: none;
+  }
+  margin-bottom: -20px;
+}
+
+#page {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  margin: 0 auto;
+}
+
+#content {
+  width: 1000px;
+  margin: 90px auto;
+  font-size: .95em;
+  line-height: 1.2em;
+}
+
+nav {
+  display: flex;
+  min-height: 120px; /* Safari Fix... */
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 30px;
+  #logo {
+    width: 120px;
+  }
+  ul {
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    a {
+      flex: auto;
+      margin: 5px 25px;
+      padding: 2px;
+      text-decoration: none;
+      color: black;
+      letter-spacing: 0.1em;
+      font-size: 0.8em;
+    }
+  }
+}
+
+p {
+  padding: 45px 110px;
+}
+
+header, nav {
+  width: 100%;
+  background: $background-color;
+}
+
+nav {
+  border-bottom: 1px solid #000;
+}
+
+.infobox {
+  h2 {
+    text-align: center;
+    margin-top: 40px;
+  }
+  background: $background-color;
+  padding: 0 20px;
+  margin: 30px 0;
+  border: 1px solid #000;
+}
+
+#v-posture-yoga  {
+    margin: -20px auto 70px;
+    display: block;
+    width: 738px;
+    border: 1px solid #9773535e;
+}
+
+#f-posture-yoga  {
+    display: block;
+    width: 100%;
+    margin: 30px auto;
+    border: 1px solid #9773535e;
+}
+
+#about {
+  display: flex;
+  > * {
+    flex: 1;
+  }
+  #about-text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+#payment-successful, 
+#payment-credit-successful,
+#refund-successful,
+#credit-successful, 
+#cancel-successful, 
+#postpone-mode, 
+#postpone-successful {
+  padding: 35px 20px;
+  text-align: center;
+  display: none;
+}
+
+.end-of-flow-success {
+  color: green;
+}
+
+#welcome {
+  padding: 5px 20px;
+  margin: 0px 0 30px;
+}
+
+#book {
+  $gap: 15px;
+  display: flex;
+  margin: 30px 0-$gap;
+  > * {
+    background: $background-color;
+    margin: 0 $gap; 
+    border: 1px solid #000;
+    padding: 40px;
+  }
+  > div {
+    flex: 70 70 0;
+    p {
+      padding: 0px;
+      margin: -17px 0px 8px;
+      font-style: italic;
+    }
+  }
+  > p {
+    flex: 30 30 0;
+  }
+  #calendar {
+    h2 {
+      font-family: raleway, sans-serif;
+      font-weight: 400;
+      font-style: normal;
+      font-size: 1.4em;
+    }
+    .fc-button {
+      width: unset;
+      background-color: var(--fc-button-bg-color,#000);
+      border: 0px;
+      &.fc-today-button {
+        &:disabled {
+          opacity: 1;
+        }
+        color: #000;
+        background-color: #b76a3d59;
+        box-shadow: 0 4px 6px rgba(50, 50, 93, .11), 0 1px 3px rgba(0, 0, 0, .08);
+      }
+      &.fc-prev-button, &.fc-next-button  {
+        background-color: #74503b;
+        box-shadow: 0 4px 6px rgba(50, 50, 93, .11), 0 1px 3px rgba(0, 0, 0, .08);
+      }
+    }
+    .fc-col-header-cell-cushion {
+      padding: 6px 10px;
+    }
+    .fc-col-header-cell-cushion {
+      font-weight: normal;
+    }
+    .fc-button:focus, .fc-button-primary:focus {
+      box-shadow: unset;
+    }
+    .fc-scrollgrid-section-sticky > * {
+      background-color: #b76a3d59;
+      z-index: unset;
+    }
+    .fc-daygrid-day.fc-day-today {
+      background-color: #ececec;
+    }
+    .fc-event-main-frame {
+      flex-direction: column;
+      &:hover {
+        cursor: pointer;
+      }
+    }
+    tbody tr {
+      height: 60px;
+    }
+  }
+}
+
+#yoga-types-info {
+  $gap: 15px;
+  display: flex;
+  margin: 30px 0-$gap;
+  > div {
+    flex: 1;
+    margin: 0 $gap; 
+  }
+}
+
+button, input {
+  display: inline-block;
+  height: 40px;
+  width: 100%;
+  font-size: 15px;
+  text-decoration: none;
+  border: none;
+  outline: none;
+  border-radius: 4px;
+  box-shadow: 0 4px 6px rgba(50, 50, 93, .11), 0 1px 3px rgba(0, 0, 0, .08);
+}
+input {
+  width: 99.6%;
+  text-indent: 14px;
+  &::placeholder {
+    color: #848484;
+  }
+}
+button {
+  margin: 5px 0;
+  background: #74503b;
+  color: #fff;
+  &:hover, &:focus {
+    cursor: pointer;
+  } 
+  &:disabled {
+    opacity: .8;
+    cursor: not-allowed;
+  }
+}
+
+#my-account-summary a {
+  color: black;
+}
+
+.booked-class-options {
+  $gap: 15px;
+  display: flex;
+  margin: 30px 0-$gap;
+  > div {
+    flex: 1;
+    margin: 0 $gap;
+    display: flex;
+    flex-direction: column;
+    button {
+      margin-top:auto;
+    }
+  }
+  p {
+    padding: 0;
+  }
+}
+
+#booked-class-template {
+  display: none;
+  p {
+    padding: 0;
+  }
+}
+
+.booked-class {
+  p {
+    padding: 0;
+  }
+}
+
+#modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.45);
+  > div {
+    display: flex;
+    position: relative;
+    background-color: $background-color;
+    margin: auto;
+    padding: 40px;
+    border: 1px solid #000;
+    width: 800px;
+    > div {
+      flex: 1;
+    }
+    p {
+      padding: 0;
+    }
+    .booking p {
+      padding-top: 12px;
+    }
+    #lesson-id {
+      display: none;
+    }
+    #lesson-description {
+      padding-right: 20px;
+    }
+    #lesson-time:first-letter {
+        text-transform: uppercase;
+    }
+    #lesson-warning{
+      font-style: italic;
+    }
+  }
+  #close-modal {
+    position: absolute;
+    right: 9px;
+    top: 4px;
+    color: #aaa;
+    float: right;
+    font-size: 35px;
+    font-weight: bold;
+    &:hover, &:focus {
+      color: #000;
+      text-decoration: none;
+      cursor: pointer;
+    } 
+  }
+}
+
+#related {
+  font-size: .8em;
+  text-align: center;
+  color: gray;
+  margin: 60px 0 -80px;
+  a {
+    text-decoration: none;
+    color: gray;
+  }
+}
+
+footer {
+  margin-top:auto;
+  min-height: 20px;
+  background: $background-color;
+  padding: 15px;
+  border-top: 1px solid #000;
+  font-size: .7em;
+  letter-spacing: .2em;
+  display: flex;
+  justify-content: space-between;
+}
+
+@media screen and (max-width: 1280px) {
+  #content {
+    width: 75%;
+  }
+  p {
+    padding: 45px;
+  }
+  #lesson-description {
+    padding-right: 0px;
+  }
+  #news {
+    padding: 5px 20px;
+    margin: 0px 0 30px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  header h1 {
+    padding: 20px 0;
+  }
+  #content {
+    width: 100%;
+    margin: 50px auto;
+  }
+  #v-posture-yoga {
+    width: 100%;
+    margin: -10px auto 20px;
+  }
+  #f-posture-yoga {
+      width: 80%;
+  }
+  #book, #yoga-types-info, #modal > div, #about, .booked-class-options {
+    flex-direction: column;
+  }
+  footer {
+    font-size: .5em;
+  }
+  p {
+    padding: 10px;
+  }
+  #yoga-types-info p {
+    padding: 0;
+  }
+  #book #calendar .fc-col-header-cell-cushion {
+    padding: 6px 4px;
+  }
+  #book, #yoga-types-info {
+    margin: unset;
+  }
+  #book > *, #yoga-types-info > div, .infobox {
+    border-left: unset;
+    border-right: unset;
+    margin: 0px;
+    padding: 30px;
+  }
+  #book > div {
+    padding: 5px;
+    & > h2 {
+      text-align: center;
+    }
+    p {
+      margin: -12px 0px 15px;
+      text-align: center;
+    }
+  }
+  .booked-class-options h3 {
+    margin: 30px 0px 0px;
+    text-align: center;
+  }
+  #modal > div {
+    padding: 15px;
+  }
+  #book > *, #yoga-types-info > :first-child, .end-of-flow-success, #postpone-mode, #my-account-summary, .booked-class, #news {
+    margin-bottom: 30px;
+  }
+  #instagram-logo {
+    width: 25px;
+  }
+}
