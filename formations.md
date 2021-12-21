@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "À propos - "
+title: "Formations - "
 description: "Pratiquante et passionnée depuis des années, c’est en Indonésie que je me forme au Hatha et Vinyasa yoga, dans le respect des traditions yogiques."
 ---
 
