@@ -15,7 +15,12 @@ description: "Hey, bienvenue ! Je m’appelle Joe, et je vous propose ici de dé
 <div id="home-tiles">
 	<div class="infobox" onclick="location.href = '/formations'">
 		<h2><span>Formations</span><br/>&nbsp;</h2>
-		<p>Le Vinyasa yoga est une pratique dynamique et créative, qui allie respiration et mouvement. En se synchronisant à la respiration, les asanas s’enchaînent de manière fluide, ce qui en fait un yoga endurant, au rythme plutôt soutenu. En pratiquant le Vinyasa yoga, on développe sa force et sa souplesse mais aussi son endurance et son agilité. </p>
+		<p>
+			Communication – Connaissance de soi – Intelligence émotionnelle
+		</p>
+		<p>
+			Votre formation est construite après un recueil de vos besoins et de vos objectifs. Nous décidons ensemble des compétences à améliorer chez les participants.
+		</p>
 	</div>
 	<div class="infobox" onclick="location.href = '/etablissements-scolaires'">
 		<h2><span>Etablissements scolaires</span></h2>
@@ -23,7 +28,9 @@ description: "Hey, bienvenue ! Je m’appelle Joe, et je vous propose ici de dé
 	</div>
 	<div class="infobox" onclick="location.href = '/seance-individuelle'">
 		<h2><span>Séance individuelle</span><br/>&nbsp;</h2>
-		<p>Le Hatha yoga représente l’approche traditionnelle du yoga. C‘est de celui-ci que sont issus tous les asanas. La pratique est plus introspective, plus méditative : nous prenons le temps de respirer longuement dans les postures, de les laisser évoluer, et d’en ressentir les effets dans tout le corps, au moment présent. Le rythme de la pratique est modéré. Le Hatha yoga fait travailler le corps en profondeur, la force tout autant que la souplesse. </p>
+		<p>Depuis plus de 10 ans, j’accompagne les enfants, les adolescents et les adultes en séance individuelle.
+	C’est prendre le temps de s’intérioriser et de trouver les ressources dont nous disposons pour les réactiver.
+	C’est l’occasion d’approfondir la connaissance de soi pour faire face à une épreuve ou un stress.</p>
 	</div>
 </div>
 
