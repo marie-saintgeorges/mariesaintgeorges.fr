@@ -13,41 +13,40 @@ description: "Hey, bienvenue ! Je m’appelle Joe, et je vous propose ici de dé
 {% endif %}
 
 <div id="home-tiles">
-	<div class="infobox">
-		<h2>Formations<br/>&nbsp;</h2>
+	<div class="infobox" onclick="location.href = '/formations'">
+		<h2><span>Formations</span><br/>&nbsp;</h2>
 		<p>Le Vinyasa yoga est une pratique dynamique et créative, qui allie respiration et mouvement. En se synchronisant à la respiration, les asanas s’enchaînent de manière fluide, ce qui en fait un yoga endurant, au rythme plutôt soutenu. En pratiquant le Vinyasa yoga, on développe sa force et sa souplesse mais aussi son endurance et son agilité. </p>
 	</div>
-	<div class="infobox">
-		<h2>Etablissements scolaires</h2>
+	<div class="infobox" onclick="location.href = '/etablissements-scolaires'">
+		<h2><span>Etablissements scolaires</span></h2>
 		<p>Le Hatha yoga représente l’approche traditionnelle du yoga. C‘est de celui-ci que sont issus tous les asanas. La pratique est plus introspective, plus méditative : nous prenons le temps de respirer longuement dans les postures, de les laisser évoluer, et d’en ressentir les effets dans tout le corps, au moment présent. Le rythme de la pratique est modéré. Le Hatha yoga fait travailler le corps en profondeur, la force tout autant que la souplesse. </p>
 	</div>
-	<div class="infobox">
-		<h2>Séance individuelle<br/>&nbsp;</h2>
+	<div class="infobox" onclick="location.href = '/seance-individuelle'">
+		<h2><span>Séance individuelle</span><br/>&nbsp;</h2>
 		<p>Le Hatha yoga représente l’approche traditionnelle du yoga. C‘est de celui-ci que sont issus tous les asanas. La pratique est plus introspective, plus méditative : nous prenons le temps de respirer longuement dans les postures, de les laisser évoluer, et d’en ressentir les effets dans tout le corps, au moment présent. Le rythme de la pratique est modéré. Le Hatha yoga fait travailler le corps en profondeur, la force tout autant que la souplesse. </p>
 	</div>
 </div>
 
 <div id="me" class="infobox">
 	<p>
-		Hey, bienvenue ! 
+		<b>Mes publics :</b>
+		en entreprises et milieu scolaire : maternelle, primaire, collège, lycée, étudiants et enseignants. 
 		<br/>
 		<br/>
-		Je m’appelle Joe, et je vous propose ici de découvrir ou d’approfondir votre connaissance du yoga. 
+		<b>Mes domaines d’expertise :</b>
+		la connaissance de soi, dont l’intelligence émotionnelle et la communication.
+		Je me base sur la théorie des intelligences multiples de HG, pour développer plus spécifiquement l’intelligence personnelle et l’intelligence sociale
+		Apprendre à communiquer avec soi-même pour mieux communiquer avec l’autre. Exemple de la respiration.
 		<br/>
 		<br/>
-		Le yoga nous invite à explorer chaque partie de notre être : notre corps, notre respiration, notre mental... Dans le but de nous découvrir réellement. Il nous aide à dépoussiérer ces différents aspects de nous, afin de les laisser rayonner. 
+		<b>Mes motivations :</b>
+		permettre à chacun de faire un pas vers la liberté en favorisant la conscience de soi, et en cheminant de l’agitation extérieure à la quiétude intérieure.
+		Pour cela nous possédons toutes les ressources nécessaires, à nous à les réactiver. 
 		<br/>
 		<br/>
-		Les asanas (postures) nous apprennent force, souplesse et légèreté du corps. En cherchant à les réaliser en conscience, nous développons aussi notre concentration et apaisons notre mental.
-		<br/>
-		<br/>
-                Lors de mes cours, j’aime aussi porter votre attention sur votre respiration, et accorder des temps de méditation, essentiels selon moi pour profiter pleinement des bienfaits de la pratique. 
-		<br/>
-		<br/>
-		Le yoga mène vers une profonde découverte de soi, et s’avère être un allié précieux pour notre vie quotidienne ! 
-		<br/>
-		<br/>
-		Donc si le cœur vous en dit, on se retrouve juste ici ! ↴
+		<b>Mes atouts :</b>
+		une adaptabilité au milieu d’intervention grâce notamment à une grande créativité.
+		Mon enthousiasme et mon dynamisme au service de l’efficacité pour transmettre, partager, contribuer, faire grandir intérieurement.
 	</p>
 </div>
 

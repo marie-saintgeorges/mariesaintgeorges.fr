@@ -140,7 +140,26 @@ nav {
 	p {
 		padding: 10px 50px;
 	}
+	&:hover {
+		cursor: pointer;
+		box-shadow: 4px 4px white;
+		h2 span {
+			text-decoration: underline;
+		}
+	}
   }
+}
+
+.school-modules {
+	margin-top: 1.5em;
+	padding: 2px 0px;
+	h2 {
+		margin-top: inherit;
+	}
+	p, ul {
+		max-width: 650px;
+		padding: 5px 200px;
+	}
 }
 
 button, input {
