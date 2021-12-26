@@ -19,7 +19,7 @@ h2 {
   font-size: 2em;
 }
 
-#name {
+.name {
   font-size: 0.5em;
   letter-spacing: 0.7em;
   font-family: raleway, sans-serif;
@@ -46,7 +46,7 @@ header {
   a:hover, a:visited, a:link, a:active {
       text-decoration: none;
   }
-  margin-bottom: -20px;
+  margin-bottom: -10px;
 }
 
 #page {
@@ -59,8 +59,26 @@ header {
 #content {
   width: 1000px;
   margin: 60px auto;
-  font-size: .95em;
   line-height: 1.2em;
+  p, li {
+	  font-size: 1.05em;
+	}
+	
+	p.list-linked {
+		padding-bottom: 5px;
+		margin-bottom: 0px;
+	}
+
+	ul.list-linked {
+		padding-top: 0px;
+		margin-top: 0px;
+	}
+
+}
+
+#qualiopi {
+    margin: 20px auto;
+    display: block;
 }
 
 nav {
@@ -85,7 +103,7 @@ nav {
       text-decoration: none;
       color: black;
       letter-spacing: 0.1em;
-      font-size: 0.8em;
+      font-size: .9em;
 	  li.active {
 		font-weight: bold;
 	  }
@@ -95,6 +113,7 @@ nav {
 
 p {
   padding: 45px 110px;
+  text-align: justify;
 }
 
 header, nav {
@@ -114,6 +133,10 @@ nav {
   }
   background: $background-color;
   border: 1px solid #000;
+}
+
+.kw {
+	font-weight: bold;
 }
 
 #me {
@@ -155,9 +178,9 @@ nav {
 	padding: 2px 0px;
 	h2 {
 		margin-top: inherit;
+		padding: 5px 150px;
 	}
 	p, ul {
-		max-width: 650px;
 		padding: 5px 200px;
 	}
 }
@@ -196,14 +219,31 @@ button {
 
 footer {
   margin-top:auto;
-  min-height: 20px;
+  min-height: 230px;
   background: $background-color;
   padding: 15px;
   border-top: 1px solid #000;
-  font-size: .7em;
   letter-spacing: .2em;
-  display: flex;
-  justify-content: space-between;
+  h2 {
+		text-align: center;
+  }
+  .name {
+    display: block;
+    text-align: center;
+    font-size: .9em;
+    margin: -25px auto 45px;
+}
+  & > div {
+	  display: flex;
+	  justify-content: space-around;
+	  font-size: 1em;
+	  span {
+		  font-weight: bold;
+	  }
+	  & > div > * {
+		      vertical-align: middle;
+	  }
+  }
 }
 
 

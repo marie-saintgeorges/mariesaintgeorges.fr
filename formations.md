@@ -4,19 +4,16 @@ title: "Formations - "
 description: "Pratiquante et passionnée depuis des années, c’est en Indonésie que je me forme au Hatha et Vinyasa yoga, dans le respect des traditions yogiques."
 ---
 
-<div class="infobox">
+<div class="infobox school-modules">
 	<h2>Formations</h2>
 	<p>
-		UNE FORMATIONS INTRA-ENTREPRISE CREE POUR VOUS 
-	</p>
-	<p>
-		Communication – Connaissance de soi – Intelligence émotionnelle
-	</p>
-	<p>
+		Une formation intra-entreprise crée pour vous.
 		Votre formation est construite après un recueil de vos besoins et de vos objectifs. Nous décidons ensemble des compétences à améliorer chez les participants. Le déroulé de la formation est une alternance d’enseignements théoriques et d’exercices concrets.  C’est grâce à l’expérimentation que les apprentissages sont acquis. Les stagiaires vont expérimenter et vivre des outils réutilisables facilement dans leur quotidien. 
-
+	<br/>
+	<br/>
 		La formation « à la carte » permet de déterminer ensemble les dates, la durée et le contenu de la formation en adéquation à votre établissement. Elle a un atout précieux : la cohésion du groupe. 
 	</p>
+	<img id="qualiopi" src="{{ '/assets/qualiopi.svg' | relative_url }}">
 </div>
 
 
@@ -66,8 +63,6 @@ description: "Pratiquante et passionnée depuis des années, c’est en Indonés
 					<li>Répondre à ses besoins pour diminuer le stress.</li>
 					<li>Des outils à utliser au quotidien (respiration, relaxation, visualisation, auto-massage…)</li>
 				</ul>
-			<p>
-			</p>
 </div>
 
 
@@ -75,9 +70,9 @@ description: "Pratiquante et passionnée depuis des années, c’est en Indonés
 			<h2>Acquérir des outils de relaxation</h2>
 			<p>
 				La relaxation constitue un moyen simple et efficace pour agir directement sur les symptômes physiques et les perturbations émotionnelles. Elle a des effets positifs sur le corps et les émotions. Une large parlette d’outils est proposée pour vous approprier ceux qui vous conviennent. 
-			</p>
+				<br/>
+				<br/>
 				Des outils inspirés de diverses techniques pour une détente corporelle et nerveuse (faire baisser les tensions intellectuelles et corporelles)
-			<p>
 			</p>
 
 				<ul>
@@ -93,8 +88,6 @@ description: "Pratiquante et passionnée depuis des années, c’est en Indonés
 
 <div class="infobox school-modules">
 			<h2>Moyens pédagogiques et techniques</h2>
-			<p>
-			</p>
 				<ul>
 					<li>Notre méthode est tirée de l'expérience. Les stagiaires vont découvrir tout au long de la formation différents outils qu'ils vont expérimenter, vivre. Nous nous appuyons sur les compétences de chacun afin qu'il puisse les valoriser.</li>
 					<li>Alternance entre théorie et pratique.</li>
@@ -104,12 +97,12 @@ description: "Pratiquante et passionnée depuis des années, c’est en Indonés
 					<li>Support pédagogique remis aux stagiaires lors de la formation.</li>
 					<li>Coopérer au sein d'une équipe et plus largement avec la communauté éducative</li>
 				</ul>
+			<br/>
 			<h2>Dispositif de suivi de l'exécution de d'évaluation des résultats de la formation</h2>
-			<p>
-			</p>
 				<ul>
 					<li>Feuilles de présence.</li>
 					<li>Mises en situation.</li>
 					<li>Formulaires d'évaluation de la formation à chaud et à froid sur support numérique dédié à la formation.</li>
 				</ul>
+				<br/>
 </div>

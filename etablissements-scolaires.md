@@ -4,7 +4,46 @@ title: "Etablissements scolaires - "
 description: "Pratiquante et passionnée depuis des années, c’est en Indonésie que je me forme au Hatha et Vinyasa yoga, dans le respect des traditions yogiques."
 ---
 
-<script src="https://unpkg.com/feather-icons"></script>
+<div class="infobox school-modules">
+	<p>
+	<br/>
+		J’ai bâti des projets à partir du socle commun de connaissance et
+		de compétences.
+	</p>
+	<ul>
+		<li>Domaine 2 : Objectifs de connaissances et de compétences pour la maîtrise du socle commun
+		"Organisation du travail personnel."</li>
+		
+		<li>Domaine  3  : la formation de la personne et du citoyen "Objectifs de connaissances et de
+		compétences pour la maîtrise du socle commun- Expression de la sensibilité et des opinions,
+		respect des autres."</li>
+	</ul>
+	<p class="list-linked">
+		Les ateliers proposés sont basés sur les compétences psychosociales identifiées par l’OMS, dont la
+		majorité reposent sur la connaissance de soi et la relation aux autres :
+	</p>
+<ul class="list-linked">
+		<li>Savoir communiquer efficacement</li>
+		<li>Être habile dans les relations interpersonnelles</li>
+		<li>Avoir conscience de soi</li>
+		<li>Avoir de l’empathie pour les autres</li>
+		<li>Savoir gérer son stress</li>
+		<li>Savoir gérer ses émotions</li>
+</ul>
+	<p class="list-linked">
+
+		Méthodes et moyens pédagogiques des ateliers :
+	</p>
+<ul class="list-linked">
+		<li>Alternance de travail individuel et de travail en groupe</li>
+		<li>Ateliers de mise en pratique par des exercices</li>
+		
+</ul>
+<p>Apprentissage par l’action et l’expérience à partir de différentes techniques.</p>
+	<p style="text-align: right">
+		Tarif : 38 €/h TTC
+	</p>
+</div>
 
 <div class="infobox school-modules">
 			<h2><i data-feather="target"></i> Préparation aux examens</h2>
@@ -87,6 +126,8 @@ description: "Pratiquante et passionnée depuis des années, c’est en Indonés
 </div>
 
 
-<script>
-  feather.replace()
-</script>
+
+<div class="infobox school-modules">
+			<h2>Ils m'ont fait confiance :</h2>
+			<p>Possibilité de créer des modules sur-mesure pour répondre àdes demandes particulières.</p>
+</div>

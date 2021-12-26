@@ -16,15 +16,15 @@ description: "Hey, bienvenue ! Je m’appelle Joe, et je vous propose ici de dé
 	<div class="infobox" onclick="location.href = '/formations'">
 		<h2><span>Formations</span><br/>&nbsp;</h2>
 		<p>
-			Communication – Connaissance de soi – Intelligence émotionnelle
-		</p>
-		<p>
 			Votre formation est construite après un recueil de vos besoins et de vos objectifs. Nous décidons ensemble des compétences à améliorer chez les participants.
 		</p>
 	</div>
 	<div class="infobox" onclick="location.href = '/etablissements-scolaires'">
 		<h2><span>Etablissements scolaires</span></h2>
-		<p>Le Hatha yoga représente l’approche traditionnelle du yoga. C‘est de celui-ci que sont issus tous les asanas. La pratique est plus introspective, plus méditative : nous prenons le temps de respirer longuement dans les postures, de les laisser évoluer, et d’en ressentir les effets dans tout le corps, au moment présent. Le rythme de la pratique est modéré. Le Hatha yoga fait travailler le corps en profondeur, la force tout autant que la souplesse. </p>
+		<p>La capacité à entrer en soi-même, à se connaître, aide l’enfant à prendre de la distance, à
+réfléchir, à se concentrer, à écouter. Il doit savoir effectuer ce détour par sa vie intérieure pour
+enrichir pleinement sa vie extérieure. Oser ce face-à-face permet de se construire et s’unifier,
+et ceci dès le plus jeune âge.</p>
 	</div>
 	<div class="infobox" onclick="location.href = '/seance-individuelle'">
 		<h2><span>Séance individuelle</span><br/>&nbsp;</h2>
