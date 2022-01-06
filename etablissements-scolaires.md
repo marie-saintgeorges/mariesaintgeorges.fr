@@ -5,12 +5,12 @@ description: "Pratiquante et passionnée depuis des années, c’est en Indonés
 ---
 
 <div class="infobox school-modules">
+	<h2>Etablissements scolaires</h2>
 	<p>
-	<br/>
 		J’ai bâti des projets à partir du socle commun de connaissance et
 		de compétences.
 	</p>
-	<ul>
+	<ul class="hard">
 		<li>Domaine 2 : Objectifs de connaissances et de compétences pour la maîtrise du socle commun
 		"Organisation du travail personnel."</li>
 		
@@ -90,7 +90,7 @@ description: "Pratiquante et passionnée depuis des années, c’est en Indonés
 
 
 <div class="infobox school-modules">
-			<h2>Favoriser une communication bienveillante</h2>
+			<h2><i data-feather="user-check"></i> Favoriser une communication bienveillante</h2>
 				<ul>
 					<li>Méthode inspirée de laCommunication Non-Violente</li>
 					<li>S'appuyer sur l'écharperelationnelle de Jacques Salomé</li>
@@ -104,7 +104,7 @@ description: "Pratiquante et passionnée depuis des années, c’est en Indonés
 
 
 <div class="infobox school-modules">
-			<h2>Je me découvre... je me révèle</h2>
+			<h2><i data-feather="trending-up"></i> Je me découvre... je me révèle</h2>
 			<p>
 				Module en vue de l'orientation.
 			</p>
@@ -121,13 +121,15 @@ description: "Pratiquante et passionnée depuis des années, c’est en Indonés
 </div>
 
 <div class="infobox school-modules">
+			<h2>Ils m'ont fait confiance :</h2>
+			<p>Possibilité de créer des modules sur-mesure pour répondre àdes demandes particulières.</p>
+</div>
+
+
+<div class="infobox school-modules">
 			<h2>En plus des modules proposés...</h2>
 			<p>Possibilité de créer des modules sur-mesure pour répondre àdes demandes particulières.</p>
 </div>
 
 
 
-<div class="infobox school-modules">
-			<h2>Ils m'ont fait confiance :</h2>
-			<p>Possibilité de créer des modules sur-mesure pour répondre àdes demandes particulières.</p>
-</div>

@@ -16,6 +16,10 @@ description: "Pratiquante et passionnée depuis des années, c’est en Indonés
 		C’est l’occasion d’approfondir la connaissance de soi pour faire face à une épreuve ou un stress.
 
 	</p>
+		<p style="text-align: right">
+		Tarif : ? €/h TTC
+	</p>
+
 </div>
 
 

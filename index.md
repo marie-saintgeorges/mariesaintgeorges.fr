@@ -16,12 +16,13 @@ description: "Hey, bienvenue ! Je m’appelle Joe, et je vous propose ici de dé
 	<div class="infobox" onclick="location.href = '/formations'">
 		<h2><span>Formations</span><br/>&nbsp;</h2>
 		<p>
-			Votre formation est construite après un recueil de vos besoins et de vos objectifs. Nous décidons ensemble des compétences à améliorer chez les participants.
+			Les formations intra-entreprises ont un premier atout précieux : la cohésion du groupe.. Je vous propose de construire ensemble, après un recueil de vos besoins et de vos objectifs une formations sur-mesure (dates - durées - contenu). Nous décidons des objectifs de la formation.
+Son déroulé est une alternance d’enseignements théoriques et d’exercices pratiques. C’est grâce à l’expérimentation que les apprentissages sont acquis. Les stagiaires vont vivre des outils réutilisables facilement dans leur quotidien professionnel.
 		</p>
 	</div>
 	<div class="infobox" onclick="location.href = '/etablissements-scolaires'">
 		<h2><span>Etablissements scolaires</span></h2>
-		<p>La capacité à entrer en soi-même, à se connaître, aide l’enfant à prendre de la distance, à
+		<p>La capacité à entrer en soi-même, à se connaître, aide le jeune à prendre de la distance, à
 réfléchir, à se concentrer, à écouter. Il doit savoir effectuer ce détour par sa vie intérieure pour
 enrichir pleinement sa vie extérieure. Oser ce face-à-face permet de se construire et s’unifier,
 et ceci dès le plus jeune âge.</p>
@@ -36,24 +37,16 @@ et ceci dès le plus jeune âge.</p>
 
 <div id="me" class="infobox">
 	<p>
-		<b>Mes publics :</b>
-		en entreprises et milieu scolaire : maternelle, primaire, collège, lycée, étudiants et enseignants. 
+		Mon public est vaste puisqu'il regroupe aussi bien les entreprises que les établissements scolaires (maternelle, primaire, collège, lycée, étudiants et enseignants). 
 		<br/>
 		<br/>
-		<b>Mes domaines d’expertise :</b>
-		la connaissance de soi, dont l’intelligence émotionnelle et la communication.
-		Je me base sur la théorie des intelligences multiples de HG, pour développer plus spécifiquement l’intelligence personnelle et l’intelligence sociale
-		Apprendre à communiquer avec soi-même pour mieux communiquer avec l’autre. Exemple de la respiration.
+		Mes domaines d’expertise comportent deux grands axes : la Connaissance de Soi, dont l’intelligence émotionnelle et la Communication. Je me base sur la théorie des Intelligences Multiples d'Howard Gardner pour développer plus spécifiquement lntelligence Personnelle et l’Intelligence Sociale. C'est apprendre à communiquer avec soi-même pour mieux communiquer avec l’autre.
 		<br/>
 		<br/>
-		<b>Mes motivations :</b>
-		permettre à chacun de faire un pas vers la liberté en favorisant la conscience de soi, et en cheminant de l’agitation extérieure à la quiétude intérieure.
-		Pour cela nous possédons toutes les ressources nécessaires, à nous à les réactiver. 
+		J'ai à coeur de permettre à chacun de faire un pas vers la liberté en favorisant la conscience de soi, et en cheminant de l’agitation extérieure à la quiétude intérieure : pour cela nous possédons toutes les ressources nécessaires, à nous à les réactiver. 
 		<br/>
 		<br/>
-		<b>Mes atouts :</b>
-		une adaptabilité au milieu d’intervention grâce notamment à une grande créativité.
-		Mon enthousiasme et mon dynamisme au service de l’efficacité pour transmettre, partager, contribuer, faire grandir intérieurement.
+		Grâce à mes atouts personnels, je bénéficie d'une adaptabilité au milieu d’intervention grâce notamment à une grande créativité. Mon enthousiasme et mon dynamisme sont au service de l’efficacité pour transmettre, partager, contribuer, faire grandir intérieurement.
 	</p>
 </div>
 

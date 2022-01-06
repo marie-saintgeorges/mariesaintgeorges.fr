@@ -73,6 +73,15 @@ header {
 		padding-top: 0px;
 		margin-top: 0px;
 	}
+	ul {
+		  list-style-type: circle;
+		  line-height: 1.4em;
+
+	}
+	ul.hard {
+		  list-style-type: revert;
+	}
+	
 
 }
 
@@ -183,6 +192,10 @@ nav {
 	p, ul {
 		padding: 5px 200px;
 	}
+}
+
+#content .school-modules:nth-child(1) {
+	border: 11px solid #865c5c;
 }
 
 button, input {

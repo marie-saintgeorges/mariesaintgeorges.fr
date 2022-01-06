@@ -51,7 +51,7 @@ description: "Pratiquante et passionnée depuis des années, c’est en Indonés
 </div>
 
 <div class="infobox school-modules">
-			<h2> Gestion du stress</h2>
+			<h2>Prévenir et gérer le stress</h2>
 			<p>
 				Perte de productivité, de confiance en soi, baisse de motivation sont des symptômes du stress. Comprendre le fonctionnement du stress et ses conséquences permettent de reprendre notre pouvoir en main et notre liberté. 
 			</p>
