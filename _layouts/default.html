@@ -16,7 +16,7 @@
       <a href="/"><h1><span class="name">MARIE SAINT-GEORGES</span><br/>Communication - Connaissance de soi - Intelligence émotionnelle</h1></a>
     </header>
     <nav>
-      <a href="/"><img id="logo" src="{{ '/assets/logo.jpg' | relative_url }}"/></a>
+      <a href="/"><img id="logo" src="{{ '/assets/logo.png' | relative_url }}"/></a>
       <ul>
         <a href="/"><li {% if page.url == "/" %}class="active"{% endif %}>ACCUEIL</li></a>
         <a href="/formations"><li {% if page.url contains "/formations" %}class="active"{% endif %}>FORMATIONS</li></a>
@@ -38,10 +38,9 @@
   </div>
   <script src="https://unpkg.com/feather-icons"></script>
 	 <script>
-	 document.addEventListener("DOMContentLoaded", function(event) {
-
-	  feather.replace()
-	  });
+	 document.addEventListener("DOMContentLoaded", function() {
+		feather.replace()
+	  })
 	</script>
   </body>
 </html>

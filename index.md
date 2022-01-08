@@ -36,6 +36,7 @@ et ceci dès le plus jeune âge.</p>
 </div>
 
 <div id="me" class="infobox">
+	<img src="{{ '/assets/me.jpg' | relative_url }}"/>
 	<p>
 		Mon public est vaste puisqu'il regroupe aussi bien les entreprises que les établissements scolaires (maternelle, primaire, collège, lycée, étudiants et enseignants). 
 		<br/>

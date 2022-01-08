@@ -150,6 +150,11 @@ nav {
 
 #me {
 	margin-top: 2em;
+		img {
+    float: right;
+    width: 230px;
+    margin: 50px;
+}
 }
 
 #about {
@@ -195,7 +200,7 @@ nav {
 }
 
 #content .school-modules:nth-child(1) {
-	border: 11px solid #865c5c;
+	border: 11px solid #a07947;;
 }
 
 button, input {
