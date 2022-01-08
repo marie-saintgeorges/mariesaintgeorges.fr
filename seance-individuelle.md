@@ -17,7 +17,7 @@ description: "Pratiquante et passionnée depuis des années, c’est en Indonés
 
 	</p>
 		<p style="text-align: right">
-		Tarif : ? €/h TTC
+		Tarif : 40 €/h TTC
 	</p>
 
 </div>

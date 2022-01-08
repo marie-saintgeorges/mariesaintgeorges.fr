@@ -68,6 +68,9 @@ header {
 		padding-bottom: 5px;
 		margin-bottom: 0px;
 	}
+	p.italic {
+		font-style: italic;
+	}
 
 	ul.list-linked {
 		padding-top: 0px;
@@ -86,8 +89,9 @@ header {
 }
 
 #qualiopi {
-    margin: 20px auto;
+    margin: -20px auto 20px;
     display: block;
+	    width: 160px;
 }
 
 nav {
@@ -195,12 +199,12 @@ nav {
 		padding: 5px 150px;
 	}
 	p, ul {
-		padding: 5px 200px;
+		padding: 5px 80px;
 	}
 }
 
 #content .school-modules:nth-child(1) {
-	border: 11px solid #a07947;;
+	border: 11px solid #a07947;
 }
 
 button, input {
