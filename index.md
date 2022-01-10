@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ""
-description: "Hey, bienvenue ! Je m’appelle Joe, et je vous propose ici de découvrir ou d’approfondir votre connaissance du yoga."
+description: ""
 ---
 
 {% if site.news %}
