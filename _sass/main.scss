@@ -288,16 +288,14 @@ footer {
 @media screen and (max-width: 1023px) {
   header h1 {
     padding: 20px 0;
+	margin-bottom: 1em;
   }
   #content {
     width: 100%;
     margin: 50px auto;
   }
-  #book, #home-tiles, #modal > div, #about, .booked-class-options {
+  #book, #home-tiles, #modal > div, #about, .booked-class-options, footer > div {
     flex-direction: column;
-  }
-  footer {
-    font-size: .5em;
   }
   p {
     padding: 10px;
@@ -311,4 +309,21 @@ footer {
   #book > *, #home-tiles > :first-child, .end-of-flow-success, #postpone-mode, #my-account-summary, .booked-class, #news {
     margin-bottom: 30px;
   }
+  
+  .name {
+    font-size: .4em;
+	}
+   #logo {
+	     padding: 15px;
+	}
+	
+	footer {
+		.name {
+			font-size: .8em;
+		}
+		& > div > div {
+			margin-bottom: 2em;
+		}
+		min-height:280px;
+	}
 }
