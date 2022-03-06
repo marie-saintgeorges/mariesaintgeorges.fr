@@ -43,7 +43,7 @@ et ceci dès le plus jeune âge."
 </ul>
 <p>Apprentissage par l’action et l’expérience à partir de différentes techniques.</p>
 	<p style="text-align: right">
-		Tarif : 38 €/h TTC
+		Tarif : sur devis
 	</p>
 </div>
 
