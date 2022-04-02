@@ -53,7 +53,7 @@ et ceci dès le plus jeune âge."
 					<li>Maîtrise de la communication non-verbale</li>
 					<li>Gestion du stress : approche émotionnelle et corporelle</li>
 					<li>Renforcement de la confiance en soi</li>
-					<li>Outils pour être plus efficace dans son travail personnel (mémoires, concentration, révisions...)</li>
+					<li>Outils pour être plus efficace dans son travail personnel (mémoire, concentration, révisions...)</li>
 				</ul>
 </div>
 

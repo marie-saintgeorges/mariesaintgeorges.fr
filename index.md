@@ -22,7 +22,7 @@ description: ""
 	<div class="infobox" onclick="location.href = '/interventions-en-milieu-scolaire'">
 		<h2><span>Interventions en milieu scolaire</span></h2>
 		<p>La capacité à entrer en soi-même, à se connaître, aide le jeune à
-réfléchir, à se concentrer, à écouter. Il doit savoir effectuer ce détour par sa vie intérieure pour
+réfléchir, à se concentrer, à écouter. Il doit savoir effectuer ce retour à sa vie intérieure pour
 enrichir pleinement sa vie extérieure. Oser ce face-à-face permet de se construire et s’unifier,
 et ceci dès le plus jeune âge.</p>
 	</div>
@@ -37,7 +37,7 @@ et ceci dès le plus jeune âge.</p>
 <div id="me" class="infobox">
 	<img src="{{ '/assets/me.jpg' | relative_url }}"/>
 	<p>
-		<b>Mon public</b> est vaste puisqu'il regroupe les entreprises (publiques et privées). De plus j'interviens dans les établissements scolaires (de la maternelle aux études supérieures) auprès des élèves/étudiants et des enseignants.
+		<b>Mon public</b> est vaste puisqu'il regroupe les entreprises (publiques et privées). J'interviens dans les établissements scolaires (de la maternelle aux études supérieures) auprès des élèves/étudiants et des enseignants.
 		<br/>
 		<br/>
 		<b>Mes domaines d’expertise</b> comportent deux grands axes : <b>la Connaissance de Soi</b> (dont l’Intelligence Emotionnelle) et <b>la Communication</b>. Je me base sur la théorie des Intelligences Multiples d'Howard Gardner pour développer plus spécifiquement l'lntelligence Personnelle et l’Intelligence Sociale. C'est apprendre à communiquer avec soi-même pour mieux communiquer avec l’autre.

@@ -8,7 +8,7 @@ description: "Les formations intra-entreprises amènent un premier atout précie
 	<h2>Formations sur-mesure</h2>
 	<p>
 		Une formation intra-entreprise créée pour vous.
-		Le déroulé de la formation est une alternance d’enseignements théoriques et d’exercices concrets.  C’est grâce à l’expérimentation que les apprentissages sont acquis. Les stagiaires vont expérimenter des outils facilement réutilisables dans leur quotidien. 
+		Le déroulé de la formation est une alternance d’enseignements théoriques et d’exercices concrets.  C’est grâce à l’expérimentation que les apprentissages sont acquis. Les stagiaires vont tester des outils facilement réutilisables dans leur quotidien. 
 	</p>
 		<img id="qualiopi" src="{{ '/assets/qualiopi.svg' | relative_url }}">
 
@@ -27,7 +27,7 @@ description: "Les formations intra-entreprises amènent un premier atout précie
 <div class="infobox school-modules">
 			<h2>Acquérir des outils pour favoriser<br/>une communication bienveillante</h2>
 			<p class="italic">
-				A partir d'une vision globale de l'être humain, développer ses capacités à apaiser les tensions et développer un mieux-être. La reconnaissance des besoins et des émotions permet de développer une communication bienveillante. Cette dernière permet de vivre des expériences d’écoute active, d’empathie avec une distance émotionnelle et un respect mutuel. 
+				A partir d'une vision globale de l'être humain, accroître ses capacités à apaiser les tensions et favoriser un mieux-être. La reconnaissance des besoins et des émotions permet de développer une communication bienveillante. Cette dernière permet de vivre des expériences d’écoute active, d’empathie avec une distance émotionnelle et un respect mutuel. 
 			</p>
 				<ul>
 					<li>Expérimenter des outils favorisant le développement de l'intelligence émotionnelle</li>
@@ -42,7 +42,7 @@ description: "Les formations intra-entreprises amènent un premier atout précie
 <div class="infobox school-modules">
 			<h2>Développer l’intelligence émotionnelle</h2>
 			<p class="italic">
-				L’intelligence émotionnelle fait partie des «soft-skills» (compétences humaines et sociales) recherchées dans les entreprises. L’intelligence émotionnelle est vecteur d’excellence individuelle : conscience soi, maîtrise de soi. Elle est aussi source d’excellence collective : communication bienveillante, coopération, empathie. 
+				L’intelligence émotionnelle fait partie des «soft-skills» (compétences humaines et sociales) recherchées dans les entreprises. L’intelligence émotionnelle est vecteur d’excellence individuelle : conscience de soi, maîtrise de soi. Elle est aussi source d’excellence collective : communication bienveillante, coopération, empathie. 
 			</p>
 				<ul>
 					<li>Décoder les signaux émotionnels corporels </li>
@@ -76,7 +76,7 @@ description: "Les formations intra-entreprises amènent un premier atout précie
 <div class="infobox school-modules">
 			<h2>Acquérir des outils de relaxation</h2>
 			<p class="italic">
-				La relaxation constitue un moyen simple et efficace pour agir directement sur les symptômes physiques et les perturbations émotionnelles. Elle a des effets positifs sur le corps et les émotions. Une large parlette d’outils est proposée pour vous approprier ceux qui vous conviennent. 
+				La relaxation constitue un moyen simple et efficace pour agir directement sur les symptômes physiques et les perturbations émotionnelles. Elle a des effets positifs sur le corps et les émotions. Une large palette d’outils est proposée pour vous approprier ceux qui vous conviennent. 
 				<br/>
 				<br/>
 				Des outils inspirés de diverses techniques pour une détente corporelle et nerveuse (faire baisser les tensions intellectuelles et corporelles).

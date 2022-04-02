@@ -104,7 +104,7 @@ nav {
   justify-content: center;
   padding-bottom: 30px;
   #logo {
-    width: 120px;
+    width: 140px;
   }
   ul {
     display: flex;
@@ -159,7 +159,7 @@ nav {
 	margin-top: 2em;
 		img {
     float: right;
-    width: 230px;
+    width: 235px;
     margin: 50px;
 }
 }
@@ -313,7 +313,7 @@ footer {
   .name {
     font-size: .4em;
 	}
-   #logo {
+   nav #logo {
 	     padding: 15px;
 	}
 	
@@ -325,5 +325,13 @@ footer {
 			margin-bottom: 2em;
 		}
 		min-height:280px;
+	}
+}
+
+@media screen and (max-width: 600px) {
+ nav #logo {
+	     padding: 15px;
+         width: 110px;
+
 	}
 }
